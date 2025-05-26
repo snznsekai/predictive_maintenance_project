@@ -5,3 +5,5 @@ matplotlib==3.6.2
 seaborn==0.12.1
 ucimlrepo==0.0.3
 xgboost==1.7.6
+streamlit-reveal-slides==0.1.0
+numpy>=1.23, <1.25
