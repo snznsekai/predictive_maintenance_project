@@ -34,7 +34,7 @@ def presentation_page():
     ## Результаты
     - Accuracy модели: 0.96
     - ROC-AUC: 0.98
-    - Приложение доступно в [GitHub](https://github.com/your-repo)
+    - Приложение доступно в [GitHub](https://github.com/snznsekai/predictive_maintenance_project.git)
     """
     
     # Настройки презентации
